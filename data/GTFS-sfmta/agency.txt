@@ -1,0 +1,2 @@
+agency_url,agency_name,agency_timezone,agency_id,agency_lang
+http://www.sfmta.com,San Francisco Municipal Transportation Agency,America/Los_Angeles,SFMTA,en
